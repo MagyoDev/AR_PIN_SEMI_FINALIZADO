@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Unity\\Finalizado\\ARPIN\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aland\\.gradle\\caches\\transforms-3\\ece6358c3c3b544f3d6f3cc51ffa918c\\transformed\\arcore_client\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,381,503",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "207,258,380,502,586"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "356,407,462,588,714",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "402,457,583,709,797"
+                    }
+                },
+                {
+                    "source": "E:\\Unity\\Finalizado\\ARPIN\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,97",
+                        "endColumns": "40,65",
+                        "endOffsets": "93,160"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "802,845",
+                        "endColumns": "42,67",
+                        "endOffsets": "840,908"
+                    }
+                },
+                {
+                    "source": "E:\\Unity\\Finalizado\\ARPIN\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,356,456,594",
+                        "endLines": "2,3,4,5,6,7,9,12,16",
+                        "endColumns": "45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "96,153,209,258,304,351,451,589,816"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,15,25,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309,913,1488,1626",
+                        "endLines": "2,3,4,5,6,7,16,27,31",
+                        "endColumns": "45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "96,153,209,258,304,351,1008,1621,1848"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\aland\\.gradle\\caches\\transforms-3\\0f884c6ba0c05767eb2823fa61565fdc\\transformed\\NativeShare\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "525"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1013",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1483"
+                    }
+                }
+            ]
+        }
+    ]
+}

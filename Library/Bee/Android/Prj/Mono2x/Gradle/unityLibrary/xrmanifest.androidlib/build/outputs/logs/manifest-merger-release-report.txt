@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:70-113
+		INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:3:3-6:17
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:5-5:16
+	android:name
+		ADDED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml:4:15-68
+uses-sdk
+INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		ADDED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		ADDED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
+		INJECTED from E:\Unity\Finalizado\ARPIN\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\AndroidManifest.xml
